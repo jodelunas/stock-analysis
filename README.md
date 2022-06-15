@@ -7,7 +7,7 @@ The purpose of his project was to refactor the previous solution code to see if 
 ## Results
 
 Both codes produced the same results, showing 2017 was a much better year. By refactoring, and creating a ticker index with the code Dim tickerIndex As Integer it ran much faster. This allowed for all tickers to be run simutaneously. The differences in time are shown in the images below.
-        
+ ![image](https://user-images.githubusercontent.com/106006911/173867278-797aedc1-f222-45b9-920b-627b0b9ed0f9.png)      
 
 
 ## Summary
